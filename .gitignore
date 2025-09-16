@@ -1,0 +1,5 @@
+venv/
+sessions/
+.streamlit/
+__pycache__/
+logs/

@@ -1,0 +1,55 @@
+# RAGAgent
+streamlit
+python-dotenv
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-openai==0.3.29
+langchain-text-splitters
+langchain-milvus==0.1.6
+pymilvus==2.6.0
+pypdf
+beautifulsoup4
+lxml
+pymupdf
+requests
+azure-storage-blob==12.26.0
+audio-recorder-streamlit==0.0.10
+
+# SQLAgent
+db-sqlite3==0.0.1
+plotly==6.2.0
+mysql-connector-python
+PyMySQL==1.1.1
+cryptography
+matplotlib==3.10.6
+streamlit-echarts==0.4.0
+
+#ImageAgent
+torch==2.8.0
+pillow
+scikit-learn
+openai
+fpdf==1.7.2
+torchvision==0.23.0
+SQLAlchemy==2.0.43
+
+# General
+PyPDF2==3.0.1
+ragas==0.3.2
+rapidfuzz
+ollama==0.5.3
+langchain-ollama==0.3.7
+bcrypt==4.3.0
+
+# Machine Learning & AI
+scikit-learn==1.7.1
+xgboost==2.1.4
+lightgbm==4.6.0
+flaml[automl]==2.3.6
+statsmodels==0.14.5
+matplotlib==3.10.6
+ 
+# Torch & Vision
+torch==2.8.0
+torchvision==0.23.0
+pillow
